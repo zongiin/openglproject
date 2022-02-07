@@ -1,0 +1,1 @@
+  -LC:/Users/jongi/Desktop/gamedev/openglproject/lib  -lmingw32 -lSDL2Main -lSDL2 -lglew32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/jongi/Desktop/gamedev/openglproject/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/OpenGLProject.dir/includes_CXX.rsp -g -o CMakeFiles\\OpenGLProject.dir\\main.cpp.obj -c C:\\Users\\jongi\\Desktop\\gamedev\\openglproject\\main.cpp",
+  "file": "C:/Users/jongi/Desktop/gamedev/openglproject/main.cpp"
+}
+]
